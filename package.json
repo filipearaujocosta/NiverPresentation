@@ -1,0 +1,11 @@
+{
+  "name": "niverpresentation",
+  "version": "1.0.0",
+  "description": "Apresentação de Aniversariantes da E-IT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filipe Costa",
+  "license": "ISC"
+}
